@@ -3,9 +3,11 @@
 
 <h3> 👨🏻‍💻 More about me </h3>
 
-- 🔭 &nbsp; I’m currently learning Shopify Theme Development
-- ✍️ &nbsp; Watching Documentries and trying out latest Marketing trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee & a break can be the ultimate solution for any stress. 
+- 🔭 &nbsp; I’m currently learning Shopify Theme Development & Shopify App developement.
+- 👀 &nbsp; I’m interested in ... SaaS, eCommerce, AI, Marketing, Big Data, Digital entrepreneurship.
+- 🌱 &nbsp; I want to learn ... Shopify App developement, Hubspot theme developement, Zoho CRM Developement.
+- 💞️ &nbsp; I’m looking to collaborate on ... Shopify theme developement, Liquid, shopify, Onlinestore 2.0 .
+- 📫 &nbsp; How to reach me ... www.digepreneurs.com or tribe.digepreneurs.com
 
 <h3>🛠 Tech Stack</h3>
 
