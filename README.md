@@ -1,11 +1,11 @@
 <h2> Hey there! I'm DigeDeveloper. <img src="https://github.com/digedeveloper/digedeveloper/blob/main/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/digedeveloper/digedeveloper/blob/main/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 More about me </h3>
 
 - 🔭 &nbsp; I’m currently learning Shopify Theme Development
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ✍️ &nbsp; Watching Documentries and trying out latest Marketing trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee & a break can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
@@ -18,16 +18,4 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digedeveloper&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/digedeveloper/github-readme-stats)
 
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://twitter.com/digepreneurs" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-
-&nbsp; <a href="mailto:digepreneurs@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-
-⭐️ From [digedeveloper](https://github.com/digedeveloper)
-{"mode":"full","isActive":false}
